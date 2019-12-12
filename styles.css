@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #fbe3b9;
+
+
+}
+h1{
+  width: 10%;
+  margin:0 auto 0 auto;
+  font-family: 'Lobster', cursive;
+}
+h2{font-family: 'Lobster', cursive;}
+p{
+  font-family: 'Indie Flower', cursive;
+}
+h3{font-family: 'Indie Flower', cursive;}
+img {
+  border-radius: 100%;
+}
+.contact-me{
+  image-resolution: from-image;
+}
+
+
+}
+.middle{
+margin:  4000px;
+padding: 500px;
+  height: 200px;
+  width: 200px;
+
+}
+.down{
+
+}
